@@ -183,6 +183,7 @@ function layout({ title, desc, body, active = '' }) {
     <nav class="foot-nav">
       ${nav.map(([h, t]) => `<a href="${h}">${t}</a>`).join('')}
       <a href="${BASE}/submit">Newsletter</a>
+      <a href="/admin" class="foot-editor">Editor</a>
     </nav>
   </div>
   <div class="foot-fine wrap">

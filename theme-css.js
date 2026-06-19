@@ -322,6 +322,8 @@ h1,h2,h3,h4{margin:0;line-height:1.05;}
 .foot-nav{display:flex;flex-wrap:wrap;gap:18px;align-items:center;}
 .foot-nav a{color:var(--foot-ink);text-decoration:none;font:700 12px var(--label);letter-spacing:.1em;text-transform:uppercase;font-variant:var(--h-variant);}
 .foot-nav a:hover{color:var(--gold);}
+.foot-nav a.foot-editor{opacity:.4;}
+.foot-nav a.foot-editor:hover{opacity:1;}
 .foot-fine{border-top:1px solid rgba(255,255,255,.12);padding-top:14px;padding-bottom:26px;}
 .foot-fine p{font:12px/1.6 var(--label);color:var(--foot-mut);margin:0;}
 
