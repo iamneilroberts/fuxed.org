@@ -1,0 +1,21 @@
+# generated output (run `npm run build`)
+site/
+
+# deps / tooling
+node_modules/
+.wrangler/
+
+# secrets / account-specific config — never commit (use wrangler.toml.example)
+.env
+.env.*
+.dev.vars
+wrangler.toml
+
+# local session/scratch
+.claude-sessions/
+*.log
+.DS_Store
+
+# legacy scratch screenshots (the kept ones live in docs/screenshots/)
+/screenshot-*.png
+/shot-*.png

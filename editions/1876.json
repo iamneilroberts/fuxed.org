@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "compromise-of-1877",
+    "category": "The Republic · Elections, Settled",
+    "sev": 5,
+    "sevLabel": "Catastrophic",
+    "headline": "Disputed Election Resolved by Awarding Presidency to the Man Who Lost It",
+    "deck": "Samuel Tilden won the popular vote and led the count. A fifteen-man commission, voting eight to seven, made Rutherford B. Hayes president — and the price was the end of Reconstruction.",
+    "read": "6 min",
+    "wasnt": "For all its fraud and violence, the postwar South still had federal troops standing behind Black citizens' right to vote and hold office. Reconstruction was imperfect, bitterly contested, and — crucially — still on its feet.",
+    "fix": "The election of 1876 deadlocked: Tilden led the popular vote by a quarter-million and sat one electoral vote shy, with Florida, Louisiana, South Carolina, and a stray Oregon elector in dispute. Rather than count again, Congress conjured an Electoral Commission of fifteen — five congressmen, five senators, five justices — to decide it.",
+    "result": "The Commission split precisely on party lines, eight to seven, and handed every disputed vote to Hayes, 185 to 184. The unwritten bargain behind the gavel: Democrats would accept Hayes, and Hayes would withdraw the last federal troops from the South. He did. Reconstruction ended, the 'Redeemer' governments took power, and the rights so recently guaranteed to Black Americans were dismantled at leisure over the next two decades.",
+    "body": "<p>The contest of November 1876 produced a result the Republic had no settled way to untangle. Samuel J. Tilden, the Democratic governor of New York, outpolled Rutherford B. Hayes by roughly a quarter of a million votes and stood but a single elector short of the presidency.[^1] In Florida, Louisiana, and South Carolina — the three Southern states still under Reconstruction governments — both parties claimed victory and mailed in rival slates of electors. The Constitution offered no instruction for the case, which is the kind of silence that invites improvisation.</p><p>Improvise Congress did. On January 29, 1877, with the two chambers in opposing hands, it created an Electoral Commission of fifteen: five Representatives, five Senators, and five Justices of the Supreme Court, the whole carefully balanced at seven Republicans, seven Democrats, and one nominal independent.[^2] When that independent was maneuvered off the panel and replaced by a Republican, what suspense remained quietly excused itself.</p><p>The Commission examined the disputed returns and voted, on every single question, eight to seven, awarding all twenty contested electoral votes to Hayes. He was declared the winner, 185 to 184 — the exact margin by which Tilden had fallen short.[^2] The verdict was reached, as one might say, with the perfect impartiality of a coin informed in advance which way to land.</p><p>What made the result stick was a bargain struck largely out of doors. Southern Democrats agreed to drop their threats of obstruction and let Hayes be inaugurated; in exchange, the incoming President would pull the last federal troops propping up the Reconstruction governments in Louisiana and South Carolina.[^3] Within two months of taking the oath, Hayes did exactly that.</p><p>The troops withdrawn, the 'Redeemer' governments seized the statehouses, and the long unwinding began. The Reconstruction amendments stayed on the books; the bayonets that had given them teeth did not. Over the next two decades the franchise so lately extended to Black Southerners was stripped away by poll tax, literacy test, and terror — a counter-revolution conducted, this time, without federal objection. The fix had resolved an election. It had also quietly ended a reconstruction, and the bill for that would not come due, in full, for nearly a century.[^1]</p>",
+    "pull": "He serves his party best who serves his country best.",
+    "pullAttr": "— Rutherford B. Hayes, Inaugural Address, March 5, 1877",
+    "refs": [
+      "HISTORY — \"Compromise of 1877,\" <a href=\"https://www.history.com/articles/compromise-of-1877\" target=\"_blank\" rel=\"noopener\">history.com</a>, accessed 2026.",
+      "National Constitution Center — \"Looking Back: The Electoral Commission of 1877,\" <a href=\"https://constitutioncenter.org/blog/looking-back-the-electoral-commission-of-1877\" target=\"_blank\" rel=\"noopener\">constitutioncenter.org</a>, accessed 2026.",
+      "Gilder Lehrman Institute of American History — \"The Contentious Election of 1876,\" <a href=\"https://www.gilderlehrman.org/history-resources/essays/contentious-election-1876\" target=\"_blank\" rel=\"noopener\">gilderlehrman.org</a>, accessed 2026."
+    ],
+    "press": [
+      { "outlet": "HISTORY", "title": "Compromise of 1877", "url": "https://www.history.com/articles/compromise-of-1877" },
+      { "outlet": "National Constitution Center", "title": "Looking Back: The Electoral Commission of 1877", "url": "https://constitutioncenter.org/blog/looking-back-the-electoral-commission-of-1877" },
+      { "outlet": "Gilder Lehrman Institute", "title": "The Contentious Election of 1876", "url": "https://www.gilderlehrman.org/history-resources/essays/contentious-election-1876" }
+    ]
+  },
+  {
+    "slug": "little-bighorn-1876",
+    "category": "The Frontier · Treaties, Amended",
+    "sev": 4,
+    "sevLabel": "Severe",
+    "headline": "Army Sent to Force Sioux Onto Reservation Locates Sioux, Regrets It Immediately",
+    "deck": "The government guaranteed the Black Hills to the Lakota 'forever,' found gold there, changed its mind, and sent Custer to enforce the revision. The revision did not go as drafted.",
+    "read": "5 min",
+    "wasnt": "The Treaty of Fort Laramie of 1868 had settled it: the Black Hills of Dakota belonged to the Lakota — sacred ground, guaranteed in writing by the United States. 'Settled,' of course, is a relative term where treaties and gold are concerned.",
+    "fix": "In 1874 an Army expedition under George Armstrong Custer confirmed gold in the Black Hills. Prospectors flooded in, the government decided the treaty had been a clerical inconvenience, and in late 1875 ordered every Lakota and Cheyenne band onto the reservations by January 31, 1876 — those who declined to be deemed 'hostile' and handled accordingly.",
+    "result": "On June 25, 1876, Custer found an enormous encampment on the Little Bighorn and, declining to wait for the columns behind him, attacked it. He and five companies of the Seventh Cavalry — some 268 men — were wiped out by warriors under Sitting Bull and Crazy Horse. The nation, mid-Centennial, was scandalized; Congress promptly seized the Black Hills anyway.",
+    "body": "<p>The Treaty of Fort Laramie, signed in 1868, was about as unambiguous as treaties get: the Black Hills and the country around them were the property of the Lakota Sioux, set aside in perpetuity, closed to white settlement.[^1] The arrangement held up tolerably well for six years — which is to say, until somebody found something under it worth breaking it for.</p><p>That somebody was, fittingly, Custer. In 1874 he led a military expedition into the Black Hills and reported gold 'from the grass roots down.' Prospectors did not wait to be asked twice. Confronted with a binding treaty and a gold rush, the government resolved the contradiction in the customary direction: it offered to buy the Hills, was refused, and then in late 1875 ordered every Lakota and Cheyenne band onto the reservations by the last day of January 1876.[^2]</p><p>The deadline was both impossible and the entire point. Winter on the northern plains is no season for moving villages, and many bands either never received the order or declined to honor it. Those still off the reservation were declared 'hostile,' which converted a real-estate dispute into a military campaign, and the Army marched.[^2]</p><p>On the afternoon of June 25, 1876, Lieutenant Colonel Custer located a vast encampment along the Little Bighorn River in Montana Territory. Rather than await the converging columns, he split his regiment and charged. He had misjudged the size of the village by something like an order of magnitude. He and five companies — roughly 268 officers and men — were killed to the last by Lakota, Cheyenne, and Arapaho fighters led by Sitting Bull and Crazy Horse.[^3]</p><p>The dispatch reached the East just as the country was toasting its first hundred years, and the shock was considerable. The response was not reflection but escalation: in 1877 Congress passed an act seizing the Black Hills outright, in plain breach of the 1868 treaty.[^1] More than a century later, in 1980, the Supreme Court agreed the taking had been illegal and ordered compensation, the Court of Claims having found 'a more ripe and rank case of dishonorable dealings will never, in all probability, be found in our history.' The Lakota have declined the money, the land never having been for sale.[^4]</p>",
+    "pull": "A more ripe and rank case of dishonorable dealings will never, in all probability, be found in our history.",
+    "pullAttr": "— U.S. Supreme Court, United States v. Sioux Nation (1980), quoting the Court of Claims",
+    "refs": [
+      "HISTORY — \"Battle of the Little Bighorn,\" <a href=\"https://www.history.com/articles/battle-of-the-little-bighorn\" target=\"_blank\" rel=\"noopener\">history.com</a>, accessed 2026.",
+      "World History Encyclopedia — \"Battle of the Little Bighorn,\" <a href=\"https://www.worldhistory.org/Battle_of_the_Little_Bighorn/\" target=\"_blank\" rel=\"noopener\">worldhistory.org</a>, accessed 2026.",
+      "Smithsonian Magazine — \"How the Battle of Little Bighorn Was Won,\" <a href=\"https://www.smithsonianmag.com/history/how-the-battle-of-little-bighorn-was-won-63880188/\" target=\"_blank\" rel=\"noopener\">smithsonianmag.com</a>, accessed 2026.",
+      "Justia — \"United States v. Sioux Nation of Indians, 448 U.S. 371 (1980),\" <a href=\"https://supreme.justia.com/cases/federal/us/448/371/\" target=\"_blank\" rel=\"noopener\">supreme.justia.com</a>, 1980."
+    ],
+    "press": [
+      { "outlet": "HISTORY", "title": "Battle of the Little Bighorn", "url": "https://www.history.com/articles/battle-of-the-little-bighorn" },
+      { "outlet": "Smithsonian", "title": "How the Battle of Little Bighorn Was Won", "url": "https://www.smithsonianmag.com/history/how-the-battle-of-little-bighorn-was-won-63880188/" },
+      { "outlet": "Justia", "title": "United States v. Sioux Nation of Indians (1980)", "url": "https://supreme.justia.com/cases/federal/us/448/371/" }
+    ]
+  },
+  {
+    "slug": "specie-resumption-1875",
+    "category": "The Economy · Sound Money, Painful",
+    "sev": 3,
+    "sevLabel": "Notable",
+    "headline": "Government Cures Cheap Money by Making Money Scarce; Farmers Decline to Send Thanks",
+    "deck": "To put the dollar back on gold after the war, Washington began vacuuming greenbacks out of the economy — a sound-money triumph that debtors experienced as a slow strangulation.",
+    "read": "4 min",
+    "wasnt": "The Civil War had been paid for partly in 'greenbacks' — paper dollars backed by nothing but the government's word — and the postwar economy, debtors and farmers above all, had grown accustomed to money that was reasonably plentiful.",
+    "fix": "The Specie Resumption Act of January 14, 1875 set the dollar marching back to gold, pledging that on January 1, 1879, paper would again be redeemable in coin — and instructing the Treasury to shrink the greenback supply from over $430 million toward $300 million to make the promise good.",
+    "result": "Sound money looked splendid in the ledgers and felt like a vise on the farm. Fewer dollars chasing the same debts meant deflation: crop prices fell, mortgages grew heavier in real terms, and the West and South seethed. The grievance birthed the Greenback Party in 1876 and fed, two decades on, the silver crusade of 1896. The cure for cheap money was a tighter rope around everyone who owed any.",
+    "body": "<p>The Union had financed its war partly on faith. 'Greenbacks' — legal-tender notes backed by nothing but the credit of the United States — had circulated since 1862, more than $430 million of them by war's end, and the country had learned, grudgingly, to live with paper money. Creditors disliked being repaid in dollars worth less than the ones they had lent; debtors found the arrangement entirely agreeable.[^1]</p><p>The hard-money men carried the day. The Specie Resumption Act, signed January 14, 1875, committed the government to redeem greenbacks in gold beginning January 1, 1879, and to draw the paper supply down toward $300 million in the meantime so the vault could cover the pledge.[^2] On parchment it was fiscal rectitude. In the fields it was deflation by statute.</p><p>Deflation is a quiet catastrophe. As dollars grew scarce their value rose, and with it the real weight of every fixed debt. A farmer who had borrowed in plentiful money now repaid in dear money, with crops that fetched less each season, against the backdrop of the Long Depression that had opened with the Panic of 1873. What the bankers called the restoration of confidence the grange called robbery performed by accountant.[^1]</p><p>The politics were predictable. The Greenback Party organized in 1876 to demand the presses be turned back on, and won enough in 1878 to force a halt to the destruction of greenbacks, freezing the supply around $346 million.[^3] When the party faded its grievance simply changed metals, resurfacing as the free-silver movement that would carry William Jennings Bryan to the brink in 1896. The country had fixed its money. It had neglected to ask the people holding the debts how the fix would feel.[^2]</p>",
+    "pull": "We demand the immediate and unconditional repeal of the Specie Resumption Act of 1875.",
+    "pullAttr": "— Greenback Party platform, 1876",
+    "refs": [
+      "Britannica — \"Resumption Act of 1875,\" <a href=\"https://www.britannica.com/topic/Resumption-Act-of-1875\" target=\"_blank\" rel=\"noopener\">britannica.com</a>, accessed 2026.",
+      "Encyclopedia.com — \"Resumption Act of 1875,\" <a href=\"https://www.encyclopedia.com/history/united-states-and-canada/us-history/resumption-act-1875\" target=\"_blank\" rel=\"noopener\">encyclopedia.com</a>, accessed 2026.",
+      "Encyclopedia of Arkansas — \"Greenback Party,\" <a href=\"https://encyclopediaofarkansas.net/entries/greenback-party-598/\" target=\"_blank\" rel=\"noopener\">encyclopediaofarkansas.net</a>, accessed 2026."
+    ],
+    "press": [
+      { "outlet": "Britannica", "title": "Resumption Act of 1875", "url": "https://www.britannica.com/topic/Resumption-Act-of-1875" },
+      { "outlet": "Encyclopedia.com", "title": "Resumption Act of 1875", "url": "https://www.encyclopedia.com/history/united-states-and-canada/us-history/resumption-act-1875" },
+      { "outlet": "Encyclopedia of Arkansas", "title": "Greenback Party", "url": "https://encyclopediaofarkansas.net/entries/greenback-party-598/" }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "swine-flu-1976",
+    "category": "Public Health · The Pandemic That RSVP'd No",
+    "sev": 4,
+    "sevLabel": "Severe",
+    "headline": "Nation Vaccinated Against Pandemic That Never Shows; Pandemic Sends No Apology",
+    "deck": "One soldier at Fort Dix caught a bug, so 43 million Americans got a shot for a plague that ghosted the entire country.",
+    "read": "5 min",
+    "wasnt": "Flu came every winter and left every spring, same as it ever did. In February 1976 a recruit at Fort Dix, New Jersey, went out on an overnight march against doctor's orders, collapsed, and died of a swine-flu strain. Exactly one fellow did. The rest of the barracks got better.",
+    "fix": "Spooked that this was 1918 booking a return engagement, President Ford went on the tube flanked by Salk and Sabin and asked Congress for $135 million to jab 'every man, woman, and child in the United States' before autumn. The drug houses agreed — but only if Uncle Sam ate the lawsuits. Uncle Sam ate the lawsuits.",
+    "result": "Some 43 million Americans rolled up a sleeve in record time. The pandemic, for its part, never bothered to turn up. What did turn up was Guillain-Barré syndrome, a creeping paralysis, in roughly 450 of the vaccinated, with about 32 deaths laid at the program's door. Washington pulled the plug on December 16, 1976, and spent years writing checks against the promise it had so thoughtfully made in the spring.",
+    "body": "<p>The whole business started, as these things do, with one guy. In February 1976 a private at Fort Dix felt lousy, went out on an overnight hike anyway, and died. The bug that got him was a swine influenza, and to the men running the Centers for Disease Control it rhymed, uncomfortably, with the strain that had emptied cemeteries in 1918.[^1] The other soldiers who caught it recovered without much fuss — but by then the word 'pandemic' was loose, and a word like that does not go quietly back in the bottle.</p><p>What followed was less a public-health program than a moon shot with needles. CDC director David Sencer sent up a memo laying out the options, all of which somehow arrived at 'vaccinate everybody,' and which had a way of making any other choice look like negligence.[^2] On March 24 President Ford went on television between Jonas Salk and Albert Sabin — the two patron saints of the syringe — and asked Congress for $135 million to inoculate every man, woman, and child in the nation.[^3]</p><p>There was a hitch, and the hitch was money. The insurance companies took one look and declined to cover the vaccine makers, who in turn declined to make vaccine. So the government agreed to assume the liability itself — a detail kept well under the bunting at the time, and the single most expensive sentence anyone signed all year.[^3]</p><p>Then came the anticlimax of the decade. America vaccinated some 43 million people, a national record, and the swine flu — the entire reason for the exercise — simply never arrived.[^4] In its place arrived Guillain-Barré syndrome, a rare paralysis that surfaced in roughly 450 of the vaccinated, about 32 of whom died. On December 16, 1976, the program was halted.[^4] The pandemic had ghosted the country; the lawsuits had not. Washington spent the next several years paying out the indemnity it had cheerfully volunteered for in March, having successfully defended the Republic against a disease that, in the event, declined to attend.[^5]</p>",
+    "pull": "I am asking the Congress to appropriate $135 million… to inoculate every man, woman, and child in the United States.",
+    "pullAttr": "— President Gerald R. Ford, televised address, March 24, 1976",
+    "refs": [
+      "CDC, David J. Sencer CDC Museum — \"1976 Swine Flu Vaccination Program,\" <a href=\"https://www.cdc.gov/museum/online/story-of-cdc/h1n1/index.html\" target=\"_blank\" rel=\"noopener\">cdc.gov</a>, accessed 2026.",
+      "CDC, Emerging Infectious Diseases — Sencer & Millar, \"Reflections on the 1976 Swine Flu Vaccination Program,\" <a href=\"https://wwwnc.cdc.gov/eid/article/12/1/05-1007_article\" target=\"_blank\" rel=\"noopener\">wwwnc.cdc.gov</a>, Jan 2006.",
+      "Gerald R. Ford Presidential Library & Museum — \"Swine Flu Immunization Program of 1976,\" <a href=\"https://www.fordlibrarymuseum.gov/digital-research-room/topic-guides/swine-flu-immunization-program-1976\" target=\"_blank\" rel=\"noopener\">fordlibrarymuseum.gov</a>.",
+      "Wikipedia — \"1976 swine flu outbreak,\" <a href=\"https://en.wikipedia.org/wiki/1976_swine_flu_outbreak\" target=\"_blank\" rel=\"noopener\">en.wikipedia.org</a>, accessed 2026.",
+      "Smithsonian Magazine — \"The Long Shadow of the 1976 Swine Flu Vaccine 'Fiasco',\" <a href=\"https://www.smithsonianmag.com/smart-news/long-shadow-1976-swine-flu-vaccine-fiasco-180961994/\" target=\"_blank\" rel=\"noopener\">smithsonianmag.com</a>, 2020."
+    ],
+    "press": [
+      { "outlet": "CDC Museum", "title": "1976 Swine Flu Vaccination Program", "url": "https://www.cdc.gov/museum/online/story-of-cdc/h1n1/index.html" },
+      { "outlet": "Smithsonian", "title": "The Long Shadow of the 1976 Swine Flu Vaccine 'Fiasco'", "url": "https://www.smithsonianmag.com/smart-news/long-shadow-1976-swine-flu-vaccine-fiasco-180961994/" },
+      { "outlet": "Ford Library", "title": "Swine Flu Immunization Program of 1976", "url": "https://www.fordlibrarymuseum.gov/digital-research-room/topic-guides/swine-flu-immunization-program-1976" }
+    ]
+  },
+  {
+    "slug": "wage-price-freeze-1971",
+    "category": "The Economy · Inflation, Outlawed",
+    "sev": 4,
+    "sevLabel": "Severe",
+    "headline": "President Declares Inflation Illegal; Inflation Keeps Operating Without a License",
+    "deck": "A 90-day freeze on every price and paycheck in America was going to whip rising prices. It whipped the chickens instead.",
+    "read": "5 min",
+    "wasnt": "Prices in 1971 were creeping up around four percent a year — annoying, hardly the apocalypse. The market, left to its own devices, has a way of sorting out what costs what.",
+    "fix": "On August 15, 1971, in a Sunday-night address that bumped Bonanza, President Nixon froze all wages, prices, and rents for 90 days, slapped a surcharge on imports, and slammed the gold window shut — a grab bag of fixes delivered with the confidence of a man who had not run it past an economist.",
+    "result": "Inflation did dip while the freeze held, because that is what happens when you make raising a price a crime. Then reality mailed its invoice: when controls returned in 1973, ranchers held cattle off the market, farmers drowned baby chicks rather than sell at a loss, and shoppers cleared the shelves. The apparatus was scrapped by April 1974; by the time Nixon resigned that August, inflation had topped 12 percent, and stagflation moved in for the decade.",
+    "body": "<p>Inflation in the summer of 1971 was running about four percent — the sort of number that gets a man re-elected, not run out of town. But an election was coming, four percent felt like five, and the President wanted it gone yesterday. The orthodox cure — spend less, tighten money, wait — had the fatal defect of taking time and hurting first.[^1]</p><p>So on a Sunday night in August, Nixon went on every channel at once and did what no peacetime president had dared: he made it illegal to raise a price or a wage for ninety days. He also closed the gold window, ending the dollar's convertibility and quietly burying the postwar money system, and threw on a ten-percent import surcharge for good measure. Wall Street threw a party. The phones at the new price-control office did not stop ringing for a year.[^2]</p><p>For a while it even seemed to work, in the way a thermometer held under the cold tap reads cooler. Measured inflation fell to around four percent during the freeze, because the government had simply forbidden the numbers to go up.[^3] The trouble is that a price is a piece of information, and when you outlaw the information you do not repeal the conditions behind it. Anything that had to be sold below cost stopped being made. Shortages of everything but dollars began to appear.[^3]</p><p>When the controls were clamped back on in 1973, the farce curdled. Ranchers, unable to get what beef cost to raise, kept their cattle at home. Poultrymen drowned chicks rather than feed birds they would have to dump at a loss. Housewives found bare cases where the meat used to be.[^3] The whole rickety contraption was dismantled in April 1974. Nixon resigned that August with inflation past twelve percent and the economy sinking into stagflation — high prices and high joblessness at once — a thing the experts had ruled impossible right up until they were standing in it.[^4]</p>",
+    "pull": "I am today ordering a freeze on all prices and wages throughout the United States.",
+    "pullAttr": "— President Richard Nixon, address to the nation, August 15, 1971",
+    "refs": [
+      "Federal Reserve History — \"Nixon Ends Convertibility of U.S. Dollars to Gold and Announces Wage/Price Controls,\" <a href=\"https://www.federalreservehistory.org/essays/gold-convertibility-ends\" target=\"_blank\" rel=\"noopener\">federalreservehistory.org</a>.",
+      "The American Presidency Project, UCSB — \"Address to the Nation Outlining a New Economic Policy, August 15, 1971,\" <a href=\"https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace\" target=\"_blank\" rel=\"noopener\">presidency.ucsb.edu</a>.",
+      "Cato Institute — \"Remembering Nixon's Wage and Price Controls,\" <a href=\"https://www.cato.org/commentary/remembering-nixons-wage-price-controls\" target=\"_blank\" rel=\"noopener\">cato.org</a>.",
+      "Econlib (Library of Economics and Liberty) — \"Nixon's Wage and Price Controls,\" <a href=\"https://www.econlib.org/archives/2016/12/nixons_wage_and.html\" target=\"_blank\" rel=\"noopener\">econlib.org</a>, 2016."
+    ],
+    "press": [
+      { "outlet": "Federal Reserve History", "title": "Nixon Ends Convertibility and Announces Wage/Price Controls", "url": "https://www.federalreservehistory.org/essays/gold-convertibility-ends" },
+      { "outlet": "Cato Institute", "title": "Remembering Nixon's Wage and Price Controls", "url": "https://www.cato.org/commentary/remembering-nixons-wage-price-controls" },
+      { "outlet": "Econlib", "title": "Nixon's Wage and Price Controls", "url": "https://www.econlib.org/archives/2016/12/nixons_wage_and.html" }
+    ]
+  },
+  {
+    "slug": "urban-renewal-1949",
+    "category": "The Cities · Progress, Bulldozed",
+    "sev": 4,
+    "sevLabel": "Severe",
+    "headline": "City Saves Doomed Neighborhood by Demolishing It, Its Residents, and the Concept of Neighborhoods",
+    "deck": "Federal money razed the 'slums,' put up towers and expressways, and produced housing so unlivable they blew it up on the six o'clock news.",
+    "read": "6 min",
+    "wasnt": "The old neighborhoods were crowded, poor, and very much alive — corner stores, stoops, churches, people who knew one another's names. 'Blighted,' the planners called them, a word that mostly meant the rent was low and the residents were Black.",
+    "fix": "Beginning with the Housing Act of 1949, Washington handed cities the cash and the bulldozers to clear 'substandard' districts and rebuild them modern: high-rise public housing, downtown parking, and expressways driven straight through where families used to live.",
+    "result": "In St. Louis, the Pruitt-Igoe project — 33 gleaming eleven-story towers that drew architectural praise in the early 1950s — emptied out, fell apart, and was dynamited on live television beginning March 16, 1972. In the city's Mill Creek Valley, some 20,000 residents were cleared and 93 percent of the buildings flattened. James Baldwin had already named the program in 1963: urban renewal, he said, means Negro removal.",
+    "body": "<p>The neighborhoods marked for rescue did not, by and large, feel as though they needed rescuing. They were crowded and poor, true, but they had butchers and barbershops and front stoops and congregations — the unglamorous machinery of a place where people actually live. The planners looked at the same blocks and saw 'blight,' a word that did a great deal of quiet work, since the blight turned up, with remarkable consistency, wherever Black families happened to be.[^1]</p><p>The Housing Act of 1949 supplied the means: federal dollars for cities to buy up 'substandard' areas, level them, and turn the cleared ground over to redevelopment.[^2] What rose in their place was the era's idea of progress — superblocks, garages, and expressways routed, as if by happy accident, straight through the neighborhoods least able to object. The bulldozer was the instrument; the future was the alibi.</p><p>St. Louis built the showpiece. Pruitt-Igoe opened in 1954: thirty-three eleven-story towers by a celebrated architect, written up in the magazines as the shape of things to come.[^3] Within a decade the elevators failed, the corridors emptied, and every family that could leave did. On March 16, 1972, the city began dynamiting it, and the networks ran the footage of the towers folding into dust — a public-housing project demolished, on camera, barely eighteen years after it was hailed as the cure.[^3]</p><p>Pruitt-Igoe was only the photogenic part. In the city's Mill Creek Valley, roughly 20,000 residents were cleared and 93 percent of the structures flattened; the emptied ground sat largely vacant for years, and locals took to calling it 'Hiroshima Flats.'[^4] Multiply that by a few hundred cities and you have the program's true output: not new neighborhoods but the absence of old ones.</p><p>None of this was a secret at the time. In a 1963 conversation filmed for television with the psychologist Kenneth Clark, James Baldwin pointed to the place he had been born and put it plainly: that, he said, is a slum now, and 'urban renewal' means Negro removal. The line stuck because it was accurate. The fix had worked exactly as designed; the design was the problem.[^5]</p>",
+    "pull": "Urban renewal… means Negro removal.",
+    "pullAttr": "— James Baldwin, interview with Kenneth Clark, 1963",
+    "refs": [
+      "Boston Review — Brent Cebul, \"Tearing Down Black America,\" <a href=\"https://www.bostonreview.net/articles/brent-cebul-tearing-down-black-america/\" target=\"_blank\" rel=\"noopener\">bostonreview.net</a>.",
+      "Smart Cities Dive — \"The Pruitt-Igoe Myth of Public Housing,\" <a href=\"https://www.smartcitiesdive.com/ex/sustainablecitiescollective/pruitt-igoe-myth-public-housing/235081/\" target=\"_blank\" rel=\"noopener\">smartcitiesdive.com</a>.",
+      "ArchDaily — \"AD Classics: Pruitt-Igoe Housing Project / Minoru Yamasaki,\" <a href=\"https://www.archdaily.com/870685/ad-classics-pruitt-igoe-housing-project-minoru-yamasaki-st-louis-usa-modernism\" target=\"_blank\" rel=\"noopener\">archdaily.com</a>.",
+      "Milwaukee Independent — \"Pruitt-Igoe: The failed public housing project and symbol of a dysfunctional urban abyss,\" <a href=\"http://www.milwaukeeindependent.com/syndicated/pruitt-igoe-the-failed-public-housing-project-and-symbol-of-a-dysfunctional-urban-abyss/\" target=\"_blank\" rel=\"noopener\">milwaukeeindependent.com</a>.",
+      "American Archive of Public Broadcasting (WGBH) — \"A Conversation With James Baldwin,\" June 24, 1963, <a href=\"https://americanarchive.org/catalog/cpb-aacip_15-0v89g5gf5r\" target=\"_blank\" rel=\"noopener\">americanarchive.org</a>."
+    ],
+    "press": [
+      { "outlet": "Boston Review", "title": "Tearing Down Black America", "url": "https://www.bostonreview.net/articles/brent-cebul-tearing-down-black-america/" },
+      { "outlet": "ArchDaily", "title": "AD Classics: Pruitt-Igoe Housing Project / Minoru Yamasaki", "url": "https://www.archdaily.com/870685/ad-classics-pruitt-igoe-housing-project-minoru-yamasaki-st-louis-usa-modernism" },
+      { "outlet": "American Archive of Public Broadcasting", "title": "A Conversation With James Baldwin (1963)", "url": "https://americanarchive.org/catalog/cpb-aacip_15-0v89g5gf5r" }
+    ]
+  }
+]
