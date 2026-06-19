@@ -11,6 +11,10 @@ node_modules/
 .dev.vars
 wrangler.toml
 
+# python bytecode cache
+__pycache__/
+*.py[cod]
+
 # local session/scratch
 .claude-sessions/
 *.log
