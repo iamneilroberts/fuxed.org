@@ -159,6 +159,21 @@ const SKINS = {
   }
   .stripes{border-bottom:3px solid var(--chrome);}
   .hero-h1{letter-spacing:5px;}`,
+  // 1985 — Eighties Memphis / MTV (geometric sans, hot pink + cyan + yellow on indigo)
+  '1985': `:root{
+    --bg:#f2f0ea; --paper:#ffffff; --paper2:#f1edf8; --ink:#15131c; --ink-soft:#3a3550; --muted:#6e6880; --line:#e3ddec;
+    --chrome:#1a1330; --chrome-ink:#f3ecff; --brand:#e0148c; --brand-dk:#b00f6e; --gold:#13c4d4; --gold-dk:#0f9caa;
+    --disp:'Futura','Century Gothic','Twentieth Century',ui-sans-serif,sans-serif; --serif:'Helvetica Neue',Arial,ui-sans-serif,sans-serif; --label:'Futura','Century Gothic',ui-sans-serif,sans-serif;
+    --h-transform:uppercase; --h-variant:normal; --h-spacing:2px; --rule-style:solid; --rule-w:3px; --radius:0px;
+    --hero-bg:linear-gradient(135deg,#1a1330 0%,#3a0f5e 100%);
+    --hero-ink:#ffffff; --hero-sub:#d7c8ee; --hero-accent:#ffd400; --hero-eyebrow:#13e6e6;
+    --band-bg:#e0148c; --band-ink:#ffffff; --band-sub:#ffe0f1; --band-inp:var(--ink);
+    --foot-bg:#1a1330; --foot-ink:#d7c8ee; --foot-name:#ffffff; --foot-mut:#9a8fc0;
+    --bunting:repeating-linear-gradient(90deg,#e0148c 0 22px,#13c4d4 22px 44px,#ffd400 44px 66px);
+    --stripes:#f2f0ea;
+    --motto-bg:#ffffff; --motto-ink:#1a1330; --motto-mark:#e0148c;
+  }
+  .stripes{border-bottom:3px solid var(--brand);}`,
 };
 
 const BASE = `

@@ -4,7 +4,7 @@
   "private": true,
   "description": "A satirical, fully-cited record of things that weren't broken until somebody 'fixed' them — across six eras, each rendered as an artifact of its time.",
   "scripts": {
-    "build": "node build.js && for y in 1776 1826 1876 1926 1976; do THEME=$y BASE=/$y SITE_DIR=site/$y ARTICLES=editions/$y.json node build.js; done",
+    "build": "node build.js && for y in 1776 1826 1876 1926 1976 1985; do THEME=$y BASE=/$y SITE_DIR=site/$y ARTICLES=editions/$y.json node build.js; done",
     "deploy": "npm run build && wrangler pages deploy site --project-name=fuxed --branch=main --commit-dirty=true"
   },
   "license": "MIT"

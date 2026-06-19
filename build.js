@@ -67,6 +67,7 @@ THEMES['1976'] = { ...__m, tag: 'The Bicentennial Dispatch of Fixes That Laid an
 THEMES['1826'] = { ...__m, tag: 'A Republican Chronicle of Bargains Most Corrupt', heroEyebrow: '✦ &nbsp; THE NATIONAL INTELLIGENCER &nbsp; ✦', heroH1: 'IT WAS A REPUBLIC.<br><span class="hero-red">SO THEY FIXED IT.</span>', heroSub: 'A republican chronicle of working arrangements, improved into ruin — soberly sourced and cited.', sectionTitle: '✦ A Register of Grievances', mottoMark: '✦', sealSub: '1826', homeTitle: 'FUXED · 1826 — It Was a Republic. So They Fixed It.', homeDesc: 'A Jacksonian-era register of arrangements that worked until they were “fixed.” Soberly sourced and cited.' };
 THEMES['1876'] = { ...__m, tag: 'The Centennial Record of Promises, Compromised', heroEyebrow: '❦ &nbsp; THE CENTENNIAL OBSERVER &nbsp; ❦', heroH1: 'A UNION PRESERVED.<br><span class="hero-red">THEN QUIETLY UN-FIXED.</span>', heroSub: 'A centennial record of hard-won settlements, traded away — faithfully sourced and cited.', sectionTitle: '❦ A Record of Compromises', mottoMark: '❦', sealSub: '1876', homeTitle: 'FUXED · 1876 — A Union Preserved. Then Quietly Un-Fixed.', homeDesc: 'A Centennial-era record of hard-won settlements that worked until they were bargained away. Sourced and cited.' };
 THEMES['1926'] = { ...__m, tag: 'The Jazz-Age Bulletin of Swell Ideas Gone Flat', heroEyebrow: '◆ &nbsp; THE JAZZ AGE BULLETIN &nbsp; ◆', heroH1: 'IT WAS THE BEE’S KNEES.<br><span class="hero-red">THEN THEY FIXED IT.</span>', heroSub: 'A jazz-age bulletin of swell ideas gone flat — on the level, sourced and cited, see?', sectionTitle: '◆ The Bunk on File', mottoMark: '◆', sealSub: '1926', homeTitle: 'FUXED · 1926 — It Was the Bee’s Knees. Then They Fixed It.', homeDesc: 'A Jazz-Age bulletin on swell ideas that worked until somebody “fixed” them. Sourced and cited, see?' };
+THEMES['1985'] = { ...__m, tag: 'The Eighties Bulletin of Bold Moves That Bombed', heroEyebrow: '◆ &nbsp; THE 1985 BULLETIN &nbsp; ◆', heroH1: 'IT WAS THE REAL THING.<br><span class="hero-red">THEN THEY FIXED IT.</span>', heroSub: 'A totally rad bulletin of bold moves that bombed — sourced, cited, and built to last (unlike the formula).', sectionTitle: '◆ Bold Moves That Bombed', mottoMark: '◆', sealSub: '1985', homeTitle: 'FUXED · 1985 — It Was the Real Thing. Then They Fixed It.', homeDesc: 'A 1980s bulletin of bold corporate moves that bombed. Sourced and cited.' };
 const T = THEMES[THEME] || THEMES.modern;
 
 // Base path for this edition (served at fuxed.org<BASE>/). '' = root (2026).
@@ -74,6 +75,7 @@ const BASE = process.env.BASE || '';
 // All editions, newest first, for the edition picker in the nav.
 const EDITIONS = [
   { base: '', label: '2026' },
+  { base: '/1985', label: '1985' },
   { base: '/1976', label: '1976' },
   { base: '/1926', label: '1926' },
   { base: '/1876', label: '1876' },
